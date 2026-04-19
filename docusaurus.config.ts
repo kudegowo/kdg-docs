@@ -11,10 +11,10 @@ const config: Config = {
     v4: true,
   },
 
-  url: 'https://emergined.github.io',
+  url: 'https://kudegowo.github.io',
   baseUrl: '/kdg-docs/',
 
-  organizationName: 'emergined',
+  organizationName: 'kudegowo',
   projectName: 'kdg-docs',
   trailingSlash: false,
 
