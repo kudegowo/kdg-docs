@@ -114,6 +114,15 @@ const config: Config = {
       theme: prismThemes.github,
       darkTheme: prismThemes.dracula,
     },
+    // Algolia DocSearch - Replace with your credentials from https://docsearch.algolia.com/
+    // After applying and receiving approval, uncomment and fill in:
+    // algolia: {
+    //   appId: 'YOUR_APP_ID',
+    //   apiKey: 'YOUR_SEARCH_API_KEY', // Public API key (safe to commit)
+    //   indexName: 'kdg-docs',
+    //   contextualSearch: true,
+    //   searchPagePath: 'search',
+    // },
   } satisfies Preset.ThemeConfig,
 };
 
