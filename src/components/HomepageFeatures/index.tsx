@@ -17,8 +17,8 @@ const FeatureList: FeatureItem[] = [
     emoji: '👨‍👩‍👧',
     description: (
       <>
-        Pay school fees easily, track your child's progress, and stay connected 
-        with teachers. Everything you need in one place.
+        Pay school fees easily, track your child's progress, get real-time arrival 
+        and departure alerts, and know exactly who picks up your child each day.
       </>
     ),
     link: '/docs/for-parents',
@@ -53,21 +53,21 @@ const ProductAreas = [
     emoji: '💳',
     description: 'Pay fees securely through trusted payment providers',
     link: '/docs/product-areas/school-payments',
-    status: 'Coming Q3 2026',
+    status: 'Coming Q2 2026',
   },
   {
     title: 'SafeSchool',
     emoji: '🛡️',
-    description: 'Secure pickup codes, safety ratings, training & emergency alerts',
+    description: 'Daily pickup passphrases, digital check-in/out, instant parent alerts, visitor management & emergency broadcast',
     link: '/docs/product-areas/safe-school',
-    status: 'Coming Q3 2026',
+    status: 'Coming Q4 2026',
   },
   {
     title: 'Education',
     emoji: '📖',
     description: 'Homework, grades, and digital report cards',
     link: '/docs/product-areas/education',
-    status: 'Coming 2027',
+    status: 'Coming Q4 2026',
   },
   {
     title: 'Financial Literacy',
