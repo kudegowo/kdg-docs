@@ -36,7 +36,7 @@ We work with established, trusted payment providers:
 - One of Africa's leading payment processors
 - Trusted by thousands of businesses
 - Bank-level security
-- Supports cards, bank transfers, and USSD
+- Supports cards and bank transfers
 
 ### Local Banks
 
@@ -55,8 +55,9 @@ We work with established, trusted payment providers:
 |--------|--------------|--------------|
 | **Debit/Credit Card** | Pay with Visa, Mastercard, or Verve | Coming Q3 2026 |
 | **Bank Transfer** | Transfer directly from your bank | Coming Q3 2026 |
-| **USSD** | Pay using your phone without internet | Coming Q3 2026 |
 | **Mobile Money** | Pay with MTN, Airtel, or other providers | Coming 2027 |
+
+*Currently supporting Nigerian Naira (NGN). Additional currencies coming in the future.*
 
 ## Security
 

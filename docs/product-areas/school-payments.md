@@ -9,7 +9,7 @@ Pay school fees securely through trusted payment providers like Paystack and loc
 
 ## How It Works
 
-1. **You pay** — Choose your payment method (card, bank transfer, or USSD)
+1. **You pay** — Choose your payment method (card or bank transfer)
 2. **We connect** — Your payment goes through our trusted payment partners
 3. **School receives** — Funds are transferred directly to your school's account
 4. **You get confirmation** — Instant receipt sent to your phone
@@ -22,8 +22,7 @@ Pay from anywhere, anytime.
 
 - **Debit/Credit Card** — Use your Visa, Mastercard, or Verve card
 - **Bank Transfer** — Pay directly from your bank account
-- **USSD** — Pay using your phone without internet access
-- **Multiple currencies** — Pay in Naira or other supported currencies
+- **Naira payments** — Pay in Nigerian Naira (additional currencies coming soon)
 
 ### Instant Receipts
 

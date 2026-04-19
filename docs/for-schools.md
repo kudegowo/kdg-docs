@@ -13,7 +13,7 @@ Running a school involves countless administrative tasks. KudEgOwo helps you str
 
 Say goodbye to cash handling and manual tracking.
 
-- Accept payments online (card, bank transfer, USSD)
+- Accept payments online (card, bank transfer)
 - Send automatic payment reminders to parents
 - Generate instant receipts for every transaction
 - Track outstanding balances in real-time

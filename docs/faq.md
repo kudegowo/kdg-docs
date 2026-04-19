@@ -55,7 +55,7 @@ Your child's school will give you a unique code. Enter this code in the app to c
 Once your school is set up on KudEgOwo:
 1. Open the app and select your child
 2. View outstanding fees
-3. Choose your payment method (card, bank transfer, or USSD)
+3. Choose your payment method (card or bank transfer)
 4. Complete the payment
 5. Receive instant confirmation
 
@@ -126,7 +126,7 @@ KudEgOwo works on:
 
 ### Do I need internet to use KudEgOwo?
 
-Most features require an internet connection. However, USSD payments can be made without internet access.
+Most features require an internet connection.
 
 ### What if I forget my password?
 

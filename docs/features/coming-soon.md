@@ -15,7 +15,6 @@ Pay your child's school fees from anywhere.
 
 - **Card payments** — Use your debit or credit card
 - **Bank transfer** — Pay directly from your bank account
-- **USSD** — Pay using your phone without internet
 - **Instant receipts** — Get confirmation sent to your phone immediately
 
 ### 🔜 Payment Reminders

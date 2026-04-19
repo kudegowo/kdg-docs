@@ -13,7 +13,7 @@ As a parent, you want to stay connected to your child's education without the ha
 
 No more queuing at the bank or worrying about lost receipts.
 
-- Pay fees online using your card, bank transfer, or USSD
+- Pay fees online using your card or bank transfer
 - Get instant receipts sent to your phone
 - Set up payment plans if you need flexibility
 - View your complete payment history anytime
