@@ -29,43 +29,74 @@ Cashless payments at school.
 
 ---
 
-## Education & Learning
+## AI-Powered Features
 
-### 💡 Homework & Assignments
+### 🤖 AI Chatbot for Financial Literacy
 
-Track your child's schoolwork.
+Conversational AI that teaches kids about money.
 
-- View homework assignments from teachers
-- See due dates and submission status
-- Get reminders before deadlines
-- Help your child stay organised
+- Interactive chat about financial concepts
+- Age-appropriate money lessons
+- Personalized learning paths
+- Available 24/7 for questions
 
-### 💡 Grades & Test Results
+### 🤖 Smart Spending Insights
 
-Stay on top of academic progress.
+AI-powered analysis of spending patterns.
 
-- View test scores as soon as they're posted
-- Track progress over time
-- Identify areas where your child needs help
-- Celebrate achievements together
+- Identify spending trends and habits
+- Budget recommendations based on behavior
+- Anomaly detection for unusual spending
+- Personalized financial tips
 
-### 💡 Digital Report Cards
+### 🤖 Predictive Payment Analytics
 
-Report cards, reimagined.
+Forecast cash flow and payment patterns.
 
-- View report cards on your phone
-- Download and share as needed
-- Compare progress across terms
-- No more lost paper reports
+- Predict upcoming payment needs
+- Cash flow forecasting for families
+- Risk assessment for payment delays
+- Automated financial planning suggestions
 
-### 💡 Live Virtual Classes
+### 🤖 Fraud Detection
 
-Learning from anywhere.
+AI-powered security for transactions.
 
-- Join live classes with video
-- Interactive lessons with teachers
-- Record and replay missed classes
-- Perfect for remote learning
+- Real-time fraud detection
+- Suspicious activity alerts
+- Transaction pattern analysis
+- Automated security responses
+
+### 🤖 AI-Assisted Homework Grading
+
+Intelligent grading and feedback system.
+
+- Automated homework grading
+- Personalized feedback generation
+- Progress tracking and insights
+- Learning gap identification
+
+---
+
+## Advanced Education
+
+### Digital Report Cards
+
+Comprehensive academic reporting.
+
+- Interactive report cards with charts
+- Progress tracking across subjects
+- Performance analytics and insights
+- Shareable digital transcripts
+
+### Live Virtual Classes
+
+Remote learning capabilities.
+
+- Live video classroom sessions
+- Interactive whiteboard features
+- Recorded lessons for review
+- Real-time student participation
 
 ---
 
@@ -149,7 +180,9 @@ Track and improve school safety.
 | Feature Area | Expected |
 |--------------|----------|
 | Child Wallets & Canteen | Q1-Q2 2027 |
-| Homework & Grades | Q2 2027 |
+| AI Chatbot & Insights | Q2 2027 |
+| Predictive Analytics & Fraud Detection | Q3 2027 |
+| AI Homework Grading | Q3 2027 |
 | Tutor Marketplace | Q3 2027 |
 | Financial Literacy | Q3-Q4 2027 |
 | Digital Report Cards | Q4 2027 |

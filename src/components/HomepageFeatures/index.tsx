@@ -53,7 +53,7 @@ const ProductAreas = [
     emoji: '💳',
     description: 'Pay fees securely through trusted payment providers',
     link: '/docs/product-areas/school-payments',
-    status: 'Coming Q2 2026',
+    status: 'Coming Q3 2026',
   },
   {
     title: 'SafeSchool',
